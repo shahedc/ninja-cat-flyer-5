@@ -1,0 +1,11 @@
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\UnityEditor.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\UnityEngine.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\nunit.framework.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\obj\Debug\Assembly-CSharp.dll
+C:\_work\unityPrac\NinjaCatFlyer\UnityGame\obj\Debug\Assembly-CSharp.pdb
